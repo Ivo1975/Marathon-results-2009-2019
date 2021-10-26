@@ -1,5 +1,5 @@
-# Marathon-results-2009-2019
-Analysis of the results of the Rotterdam Marathon from 2009 to 2019.
+# Marathon-results-2009-2021
+Analysis of the results of the Rotterdam Marathon from 2009 to 2021.
 
 I have run this marathon myself 4 times (2014, 2017, 2018 and 2019). I wanted to see what has changed in all the years. 
 
